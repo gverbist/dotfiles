@@ -1,8 +1,11 @@
 -- Quality of Life Plugin. This enalbes a lot of nice addons
+-- First enable the plugin in Opts --> check website for This
+-- Then map a key to that plugin function
 return {
   "folke/snacks.nvim",
   priority = 1000,
   lazy = false,
+---@diagnostic disable-next-line: undefined-doc-name
   ---@type snacks.Config
   opts = {
     notifier = { enabled = true },
