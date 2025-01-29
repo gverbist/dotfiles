@@ -76,7 +76,7 @@ cd ~/dotfiles
 stow nvim  # Creates symlinks for ~/.config/nvim
 ```
 
-# Verify
+##### Verify
 
 ```
 ls -l ~/.config/nvim  # Should show linked files
