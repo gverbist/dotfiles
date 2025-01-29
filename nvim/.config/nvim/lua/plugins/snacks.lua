@@ -16,5 +16,6 @@ return {
   },
 keys = {
     { "<leader>gg", function() Snacks.lazygit() end, desc = "Lazygit" },
+    { "<c-/>",      function() Snacks.terminal() end, desc = "Toggle Terminal" },
   }
 }
