@@ -4,6 +4,9 @@ return {
   priority = 1000,
   -- Config part of the plugin
   config = function()
-    vim.cmd.colorscheme("catppuccin")
-  end,
+      require("catppuccin").setup({
+        transparent_background = true,
+      })
+      vim.cmd.colorscheme "catppuccin-mocha"
+    end
 }
