@@ -31,4 +31,11 @@ Shellcheck for all scripts https://www.shellcheck.net/ Check every script for mi
 Fastmail Hosted Email Servers https://www.fastmail.com/ Best hosted email servers
 FREE DEV Courses https://leonnoel.com/100devs/ Free DEV learning courses
 MDM Bypass MAC https://skipmdm.com MDM Bypass
+Zapcables Keyboard cables https://zapcables.com/ Retro DIY cables
+Moonlander Keyboard https://www.zsa.io/moonlander/buy/  Keyboard
+1upkeyboards https://1upkeyboards.com/ keyboards and stuff
+GMMK Pro Keyboards https://www.pcgamingrace.com/ GMMK pro keyboards
+RandomNerdTutorials ESP https://randomnerdtutorials.com  ESP and Arduino examples
+Autonomous ai Desks https://www.autonomous.ai/ Desk
+FS.com Cables Transceivers http://fs.com Fiber adapters, network switches, etc...
 
