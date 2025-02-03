@@ -14,8 +14,8 @@ TEXT=$(wl-paste)
 
 # Check if clipboard is empty
 if [ -z "$TEXT" ]; then
-    echo "Clipboard is empty. Copy something first!"
-    exit 1
+  echo "Clipboard is empty. Copy something first!"
+  exit 1
 fi
 
 # Append to bookmarks file with a timestamp
