@@ -5,6 +5,3 @@ GitHub https://github.com
 fzf Git Repository https://github.com/junegunn/fzf
 fzf Wiki https://github.com/junegunn/fzf/wiki
 VHS recording tool CLI https://github.com/charmbracelet/vhs
-https://en.wikipedia.org/wiki/MQQ
-https://en.wikipedia.org/wiki/MQQ
-https://dev.bist.be/
