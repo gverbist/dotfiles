@@ -1,6 +1,6 @@
 return {
 	"nvim-neo-tree/neo-tree.nvim",
---	branch = "v3.x",
+	--	branch = "v3.x",
 	dependencies = {
 		"nvim-lua/plenary.nvim",
 		"nvim-tree/nvim-web-devicons",
@@ -9,7 +9,7 @@ return {
 	opts = {
 		filesystem = {
 			filtered_items = {
-        hide_dotfiles = false,
+				hide_dotfiles = false,
 				visible = true,
 				show_hidden_count = true,
 			},

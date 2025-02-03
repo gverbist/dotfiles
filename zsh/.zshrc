@@ -121,6 +121,9 @@ rehash_precmd() {
 
 add-zsh-hook -Uz precmd rehash_precmd
 
+#lnks Bookmarking tool Alias
+
+alias lk="~/lnks/lnks.sh"
 
 
 alias aq="asciiquarium"
