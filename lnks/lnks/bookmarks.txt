@@ -39,3 +39,4 @@ RandomNerdTutorials ESP https://randomnerdtutorials.com  ESP and Arduino example
 Autonomous ai Desks https://www.autonomous.ai/ Desk
 FS.com Cables Transceivers http://fs.com Fiber adapters, network switches, etc...
 
+Self hosted https://selfh.st/
