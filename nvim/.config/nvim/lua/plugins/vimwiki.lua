@@ -1,6 +1,7 @@
 return {
 
   "vimwiki/vimwiki",
+  lazy = false,
   event = "BufEnter *.md",
   keys = {"<leader>ww", "<leader>wt"},
   init = function()

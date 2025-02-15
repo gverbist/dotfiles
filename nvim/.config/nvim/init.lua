@@ -23,6 +23,8 @@ local opts = {}
 require("vim-options")
 --This will allow plugins to live inside lua/plugins
 require("lazy").setup("plugins")
+--Keymaps can be found in this dedicated file.
+require("keymaps")
 
 
 
