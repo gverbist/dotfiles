@@ -7,36 +7,36 @@ Paperlessngx Backups https://www.madebyagents.com/blog/paperless-backup-automati
 GPT for drawing Diagrams https://www.eraser.io/diagramgpt
 Typecraft Learning NVIM https://typecraft.dev/
 ColorScheme Retro https://colorhunt.co/palettes/retro
-Lazygit https://github.com/jesseduffield/lazydocker Lazy Docker -- Like Lazygit
-Autotiling for Sway in Arch https://github.com/nwg-piotr/autotiling Autotiling for Sway in Archcraft
-Alf.io Event Tickets https://alf.io/ Event Ticket System
-Homenetwork Guy https://homenetworkguy.com/ OPNsense guides and other cool home stuff
-Streambeat Free Music https://www.streambeats.com/ Free music
-Linuxserver.io https://www.linuxserver.io/ container marketplace
-Guacamole Remote Desktop https://guacamole.apache.org/ remote desktop gateway
-Helm Respositories and Charts https://hub.kubeapps.com/ Bitnami Helm repositories and charts
-Awesome Docker https://awesome-docker.netlify.app/ Cool Container Stuff
-Plastieken Bakken Transoplast https://www.transoplastshop.be/onze-webshop Plastieken bakken/dozen
-RVS Paleis https://www.rvspaleis.nl/ Bouten en moeren voor de Rebreather A4 kiezen
-Ninite Windows Customer Scritps https://ninite.com/ Windows custom installs
-xLights DMX for wled https://xlights.org/ DMX controller software for WLED
-ESP Projects https://www.opengreenenergy.com/ ESP Projects
-Minicom https://wiki.emacinc.com/wiki/Getting_Started_With_Minicom   minicom
-Home Assistant Stuff https://everythingsmarthome.co.uk/ Home assistant stuff
-Linux How-to's https://www.server-world.info/en/ Linux how-to's
-Cool guide Homelab https://thehomelab.wiki/ Cool guides on home lab building
-Information Security Training https://darkstar7471.com/index.html  Information security training resources
-TMUX Customizing https://hackernoon.com/customizing-tmux-b3d2a5050207 tmux customizing
-Shellcheck for all scripts https://www.shellcheck.net/ Check every script for mistakes and mall.
-Fastmail Hosted Email Servers https://www.fastmail.com/ Best hosted email servers
-FREE DEV Courses https://leonnoel.com/100devs/ Free DEV learning courses
-MDM Bypass MAC https://skipmdm.com MDM Bypass
-Zapcables Keyboard cables https://zapcables.com/ Retro DIY cables
-Moonlander Keyboard https://www.zsa.io/moonlander/buy/  Keyboard
-1upkeyboards https://1upkeyboards.com/ keyboards and stuff
-GMMK Pro Keyboards https://www.pcgamingrace.com/ GMMK pro keyboards
-RandomNerdTutorials ESP https://randomnerdtutorials.com  ESP and Arduino examples
-Autonomous ai Desks https://www.autonomous.ai/ Desk
-FS.com Cables Transceivers http://fs.com Fiber adapters, network switches, etc...
+Lazygit https://github.com/jesseduffield/lazydocker
+Autotiling for Sway in Arch https://github.com/nwg-piotr/autotiling
+Alf.io Event Tickets https://alf.io/
+Homenetwork Guy https://homenetworkguy.com/
+Streambeat Free Music https://www.streambeats.com/
+Linuxserver.io https://www.linuxserver.io/
+Guacamole Remote Desktop https://guacamole.apache.org/
+Helm Respositories and Charts https://hub.kubeapps.com/
+Awesome Docker https://awesome-docker.netlify.app/
+Plastieken Bakken Transoplast https://www.transoplastshop.be/onze-webshop
+RVS Paleis https://www.rvspaleis.nl/
+Ninite Windows Customer Scritps https://ninite.com/
+xLights DMX for wled https://xlights.org/
+ESP Projects https://www.opengreenenergy.com/
+Minicom https://wiki.emacinc.com/wiki/Getting_Started_With_Minicom
+Home Assistant Stuff https://everythingsmarthome.co.uk/
+Linux How-to's https://www.server-world.info/en/
+Cool guide Homelab https://thehomelab.wiki/
+Information Security Training https://darkstar7471.com/index.html
+TMUX Customizing https://hackernoon.com/customizing-tmux-b3d2a5050207
+Shellcheck for all scripts https://www.shellcheck.net/
+Fastmail Hosted Email Servers https://www.fastmail.com/
+FREE DEV Courses https://leonnoel.com/100devs/
+MDM Bypass MAC https://skipmdm.com
+Zapcables Keyboard cables https://zapcables.com/
+Moonlander Keyboard https://www.zsa.io/moonlander/buy/
+1upkeyboards https://1upkeyboards.com/
+GMMK Pro Keyboards https://www.pcgamingrace.com/
+RandomNerdTutorials ESP https://randomnerdtutorials.com
+Autonomous ai Desks https://www.autonomous.ai/
+FS.com Cables Transceivers http://fs.com
 
 Self hosted https://selfh.st/
