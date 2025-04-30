@@ -11,14 +11,14 @@ gaps inner 10
 gaps outer 0
 
 ##-- Colors ------------------------------
-set $sway_cl_col_bg #030308
-set $sway_cl_col_fg #f6f5f3
-set $sway_cl_col_in #3DAAAA
-set $sway_cl_col_afoc #DDBCAF
-set $sway_cl_col_ifoc #DDBCAF
-set $sway_cl_col_ufoc #0a0a1b
-set $sway_cl_col_urgt #EDD7CE
-set $sway_cl_col_phol #030308
+set $sway_cl_col_bg #00191F
+set $sway_cl_col_fg #d8f6f1
+set $sway_cl_col_in #94C5DA
+set $sway_cl_col_afoc #AADAFE
+set $sway_cl_col_ifoc #AADAFE
+set $sway_cl_col_ufoc #002d39
+set $sway_cl_col_urgt #B8EAFB
+set $sway_cl_col_phol #00191F
 
 # class                  border              backgr.             text              indicator         child_border
 client.focused           $sway_cl_col_afoc   $sway_cl_col_afoc   $sway_cl_col_bg   $sway_cl_col_in   $sway_cl_col_afoc
