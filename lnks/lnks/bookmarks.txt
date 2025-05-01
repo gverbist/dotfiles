@@ -40,3 +40,4 @@ Autonomous ai Desks https://www.autonomous.ai/
 FS.com Cables Transceivers http://fs.com
 
 Self hosted https://selfh.st/
+Privacy Guides https://www.privacyguides.org/en/
