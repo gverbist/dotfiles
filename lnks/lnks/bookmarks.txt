@@ -41,3 +41,5 @@ FS.com Cables Transceivers http://fs.com
 
 Self hosted https://selfh.st/
 Privacy Guides https://www.privacyguides.org/en/
+pwndocs pentesting documentation https://github.com/pwndoc/pwndoc
+
