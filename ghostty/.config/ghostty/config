@@ -2,3 +2,4 @@ background-opacity = 0.95
 theme = catppuccin-mocha
 background-blur = true
 confirm-close-surface = false
+command = ~/scripts/ghosttytmux.sh
